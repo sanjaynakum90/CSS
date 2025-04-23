@@ -1,0 +1,44 @@
+a{
+    text-align: center;
+    text-decoration: none;
+}
+
+
+h2{
+    text-align: center;
+    text-shadow: 2px 2px #27f750;
+   
+}
+
+
+p{
+    font-family:;
+    font-size: 20px;
+    color: rgba(44, 20, 20, 0.808);
+    font-weight: 500px;
+    text-align: start;
+    line-height: 50px;
+
+    letter-spacing: 0px;
+    word-spacing: px;
+    text-decoration:underline;
+    text-decoration-color: rgb(245, 245, 245);
+    font-style: italic;
+    text-transform:capitalize;
+    text-orientation: upright;
+    text-shadow: 2px 2px #fafbf9;
+    text-decoration: underline wavy rgb(6, 6, 23);
+    text-underline-offset: px;
+    
+
+    text-indent: 30%;
+}
+
+
+ul{
+    /* list-style: inside url("https://mobirise.com/extensions/cryptom5/trade-agency/assets/images/face1.jpg")  */
+    /* list-style: "\2713"; */
+    list-style:"🥪";
+
+    
+}
