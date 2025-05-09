@@ -1,0 +1,25 @@
+.para{
+    color: black;
+    font-size: 20px;
+    /* background-color: gainsboro; */
+    font-family:poppins;
+    font-weight: 500;
+
+    font-style: italic;
+    text-align: start;
+    
+    line-height: 40px;
+    letter-spacing: 3px;
+    word-spacing: 20px;
+
+    text-decoration:overline;
+
+    text-transform: capitalize;
+
+    text-indent: 30%;
+}
+
+
+ul{
+    list-style: "\00A9";
+}
