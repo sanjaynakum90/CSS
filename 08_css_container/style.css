@@ -1,0 +1,42 @@
+.box{
+    border: 3px solid green;
+    height: 300px;
+    font-size: 20px;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.box1{
+    border: 1px solid red;
+    height: 300px;
+    font-size: 20px;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.box2{
+    border: 1px solid orange;
+    height: 300px;
+    font-size: 20px;
+    min-width: 500px;
+    margin:auto;
+    margin-top: 30px;
+}
+
+
+.bx{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    float: right;
+}
+
+.bx1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(48, 217, 39);
+    float: left;
+    
+}
