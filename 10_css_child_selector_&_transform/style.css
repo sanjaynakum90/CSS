@@ -1,0 +1,92 @@
+.container > div > div >div{
+    color: red;
+}
+
+.container p{
+    color: green;
+}
+
+
+.para::first-letter{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.para::first-line{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+
+
+.list li:first-child{
+    color:orange
+}
+
+
+.list li:last-child{
+    color: green;
+}
+
+.list li:nth-child(2n){
+    background-color: lightblue;
+}
+
+
+.list li:nth-child(2n-1){
+    background-color: gainsboro;
+}
+
+
+
+
+.box{
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+    background-color: lightgreen;
+
+   
+}
+
+.box1{
+    transform: rotateY(45deg);
+}
+
+.box2{
+    transform: scale(0.5);
+}
+
+.box3{
+    transform: scaleX(1.2);
+}
+
+.box4{
+    transform: scaleY(1.2);
+}
+
+
+.box5{
+    transform: translateX(50px);
+}
+
+
+.box6{
+    transform: translateY(50px);
+}
+
+.box7{
+    transform: translate(50px, 50px);
+}
+
+.box8{
+    transform: skewX(30deg);
+}
+
+.box9{
+    transform: skewY(30deg);
+}
+
+.box10{
+    transform: skew(30deg, 30deg);
+}
