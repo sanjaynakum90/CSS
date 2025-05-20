@@ -1,0 +1,94 @@
+.box1{
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+
+    background-image: linear-gradient(-45deg, orange, white, green);
+    
+
+}
+
+.box2{
+    margin: 20px;
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+
+    background-image: radial-gradient(circle, orange 1%, white 20%, green);
+
+}
+
+.box3{
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: conic-gradient( orange , white , green, orange);
+    border-radius: 50%;
+}
+
+
+.container{
+    width:100% ;
+    height: 100vh;
+    border: 1px solid green;
+    background-image: url(https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg);
+    /* background-position: -200px ; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+h1{
+    line-height: 90vh;
+    color: white;
+}
+
+
+.container2{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid black;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dubai_Marina_Skyline.jpg/1200px-Dubai_Marina_Skyline.jpg), #00000085;
+
+    background-size: cover;
+    text-align: center;
+    background-blend-mode: overlay;
+}
+
+
+.container3{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid black;
+    background: url(https://images5.alphacoders.com/481/481123.jpg);
+background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.container4{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid black;
+    background: url(https://images5.alphacoders.com/573/573475.jpg);
+
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+.container5{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid black;
+    background: url(https://external-preview.redd.it/npG2tr36CvJ4tdZpLCW-jtaO_30RIL2S9ocF9m9WXno.jpg?auto=webp&s=14da00082028e85ec1553ab1ada32a0e168eb717);
+
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
